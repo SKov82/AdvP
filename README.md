@@ -1,2 +1,0 @@
-# AdvP
-Advanced Python GeekBrains
